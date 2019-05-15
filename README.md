@@ -6,7 +6,6 @@ Arcade-Style Trivia Game built with React - bringing the new school to the old s
 
 # Guest credentials:
 Username: guest
-&nbsp
 Password: guest
 
 ## Getting Started
